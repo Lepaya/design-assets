@@ -6,4 +6,4 @@ These assets are automatically published using this base path: https://lepaya.gi
 ## Assets
 
 - https://lepaya.github.io/design-assets/signatures/email-signature.html
-- https://lepaya.github.io/design-assets/signatures/email-signature-no-icon.html
+- https://lepaya.github.io/design-assets/signatures/email-signature-no-icons.html
